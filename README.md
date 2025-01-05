@@ -6,7 +6,7 @@ Getting Started
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-repo.git
+git clone https://github.com/Manikumar1999/Project-Facial-Emotion-Recognition-Using-Deep-Learning
 Dataset
 Source: FER-2013 dataset available on Kaggle.
 Details: Low-resolution grayscale images categorized into seven emotions.
